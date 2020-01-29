@@ -1,0 +1,32 @@
+{
+  "name": "pokedocs",
+  "version": "1.0.0",
+  "description": "Knowledge Base (KB) for a real working Pokedex built using Microsoft Azure QnA Maker!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/instafluff/PokeDocs.git"
+  },
+  "keywords": [
+    "Instafluff",
+    "Azure",
+    "QnA",
+    "Maker",
+    "Microsoft",
+    "Pokemon",
+    "Pokedex"
+  ],
+  "author": "Instafluff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/instafluff/PokeDocs/issues"
+  },
+  "homepage": "https://github.com/instafluff/PokeDocs#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0",
+    "webwebweb": "^1.1.10"
+  }
+}
