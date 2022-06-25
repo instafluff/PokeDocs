@@ -30,7 +30,7 @@
     "@azure/cognitiveservices-customvision-training": "^4.0.0",
     "dotenv": "^8.2.0",
     "image-downloader": "^3.5.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "webwebweb": "^1.1.10"
   }
 }
